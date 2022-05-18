@@ -1,0 +1,15 @@
+title: 1000 Heartless Battle w/ Donald & Goofy
+originalAuthor: Zurphing
+game: kh2
+description: Fight the 1000 Heartless Battle, now with Donald & Goofy, allowing you to use summons, limits, & drive forms.
+assets:
+
+#PC/PCSX2
+- name: ard/us/hb17.ard
+  method: copy
+  source:
+  - name: ard/us/hb17.ard
+- name: ard/hb17.ard
+  method: copy
+  source:
+  - name: ard/us/hb17.ard
